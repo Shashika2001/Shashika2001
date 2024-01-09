@@ -2,7 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shashika2001&label=Profile%20views&color=0e75b6&style=flat" alt="Shashika2001" /> </p>
 
-
+- 📚 My school **Walasmulla National School**
+  
 - 🌱 I’m currently learning **Computer Science**
 
 - 👨‍💻 All of my projects are available at **this Accoount**
