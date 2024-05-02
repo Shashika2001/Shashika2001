@@ -20,7 +20,7 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,mysql,py" />
+    <img src="https://skillicons.dev/icons?i=c,html,mysql,py,react" />
   </a>
 </p>
 
