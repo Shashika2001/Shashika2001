@@ -1,10 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&color=F75590&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Shashika+Ekanayaka;From+Matara,+Sri+Lanka;CS+Undergraduate+at+UCSC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B%2C+I'm+Shashika+Ekanayake;A+Computer+Science+Undergraduate+from+Sri+Lanka;Aspiring+Full-stack+Developer;Loves+React,+Flutter,+and+Open+Source)](https://git.io/typing-svg)
+
+<img align="right" alt="Coding" width="400" height="300" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif"/>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Shashika2001&label=Profile%20Views&color=blueviolet&style=flat" alt="Shashika2001" />
+  <img src="https://komarev.com/ghpvc/?username=shashika2001&label=Profile%20views&color=0e75b6&style=flat" alt="shashika2001" />
+  <img src="https://img.shields.io/github/followers/shashika2001?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/shashika2001?label=Total%20Stars&style=social" alt="GitHub Stars" />
 </p>
 
----
 
 ### 👨‍💻 About Me:
 - 📚 Studied at **Walasmulla National School**  
