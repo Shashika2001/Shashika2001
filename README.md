@@ -29,21 +29,10 @@
 
 ---
 
-### 📊 GitHub Activity:
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashika2001&theme=radical" alt="Profile Summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashika2001&theme=radical" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shashika2001&theme=radical" alt="Stats" />
-</div>
+📊 GitHub Activity:
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashika2001&theme=radical" alt="Profile Summary" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shashika2001&theme=radical" alt="Top Languages" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shashika2001&theme=radical" alt="Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com?user=Shashika2001&theme=soft-green&hide_border=true" alt="GitHub Streak Stats" /> </div>
 
----
 
-## Github Activity ✔
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shashika2001&theme=monokai)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shashika2001&theme=monokai)
-
-[![](https://github-readme-streak-stats.herokuapp.com?user=Shashika2001&theme=soft-green)](https://git.io/streak-stats)
 -----
 
 ### 🌐 Connect with Me:
