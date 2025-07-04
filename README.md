@@ -14,7 +14,7 @@
 - 🌱 Currently learning **Computer Science**  
 - 💼 Focused on **Web Development** and **AI/ML**  
 - 💬 Ask me about **Tech, Coding, or Productivity Tips**  
-- 📫 Reach me at: **[Your Email/Contact Info]**  
+- 📫 Reach me at: **[ekanayakespm@gmail.com/0717395361]**  
 - ⚡ Fun fact: **Always curious, always learning!**
 
 ---
