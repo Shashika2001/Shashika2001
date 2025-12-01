@@ -73,9 +73,9 @@
 - 🎮 Gaming and eSports  
 
 #### **Quick Links:**
-- 🌐 [Portfolio Website](#)  
-- 📄 [Resume](#)  
-- 📝 [Blog](#)
+- 🌐 [Portfolio Website](https://shashika2001.github.io/Shashika_Ekanayaka/)  
+- 📄 [Resume](https://drive.google.com/drive/u/0/folders/1FVSpTuGPgl_eg3sH9NeOydYubP6Wmtsf)  
+- 📝 [Blog](https://medium.com/@ekanayakespm)
 
 ---
 
